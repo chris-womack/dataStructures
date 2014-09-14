@@ -1,0 +1,49 @@
+
+declare needed variables
+
+open file
+
+while not the end of file
+	read_a_line from(message_board.txt)
+	variable_struct = split_the_line(line)
+
+	//compare the line with array struct
+	for loop iteration over length of array for comparison
+		if array[i].type == variable.type
+			if array[i].status != variable.status
+				des = designatore for which is for sale
+				if designator == array is for sale
+					if array[i].price >= variable.price
+						line to remove = i
+						check for hit = true
+				elseif designator == 0
+					if array[i].price <= variable.price
+						line to remove = i
+						check for hit = true
+		
+		if check for hit == true
+			remove line i from the array of structs
+			print out transaction to a file
+			for j = i to iterate to 1 minus length of array to shift down 
+				array[j].type = array[j+1].type
+				array[j].sell = array]j+1].sell
+				array[j].price = array]j+1].price
+			end for
+	end for
+end while
+
+also include counter on all operations that are file length dependent
+will add after code is complete.
+
+for function to print array at any time
+as an array is a pointer to the value in mem we can print them at any time
+and have the actual values of the array
+
+print_function(struct array)
+	for i = 0 to length of array
+		print array.type
+		print array.price
+		print array.sell
+
+
+close file

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1405808693 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/lab_code/Lab_6/Lab_6_header.cpp
+	"Lab_6_header.h"
+	<iostream>
+
+1405808706 /home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/lab_code/Lab_6/Lab_6_header.h
+
+1405808693 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/lab_code/Lab_6/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"Lab_6_header.h"
+

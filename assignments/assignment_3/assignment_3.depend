@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1406518654 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/assignments/assignment_3/main.cpp
+	"bst.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1406516766 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/assignments/assignment_3/bst.cpp
+	"bst.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1406518756 /home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/assignments/assignment_3/bst.h
+	<string>
+
+1406841079 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/assignments/assignment_3/bst.cpp
+	"bst.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+
+1406839128 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/assignments/assignment_3/bst.h
+	<string>
+
+1406841079 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/assignments/assignment_3/main.cpp
+	"bst.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+

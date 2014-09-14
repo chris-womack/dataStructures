@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1407272651 source:/home/redbeard/Desktop/FinalProject/main.cpp
+	"Node.h"
+	"myStruct.h"
+	"functions.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1407186291 /home/redbeard/Desktop/FinalProject/Node.h
+	<iostream>
+	<string>
+
+1407192655 /home/redbeard/Desktop/FinalProject/Ship.h
+	"Node.h"
+	<iostream>
+	<string>
+
+1407277817 /home/redbeard/Desktop/FinalProject/functions.h
+	"functions.cpp"
+	<iostream>
+	<string>
+
+1407273217 /home/redbeard/Desktop/FinalProject/functions.cpp
+	"Node.h"
+	"myStruct.h"
+	"functions.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+
+1407177808 /home/redbeard/Desktop/FinalProject/Node.cpp
+	"Node.h"
+	<iostream>
+
+1407272688 source:/home/redbeard/Desktop/FinalProject/Node.cpp
+	"Node.h"
+	<iostream>
+	<string>
+
+1407192159 source:/home/redbeard/Desktop/FinalProject/Ship.cpp
+	"Ship.h"
+	<iostream>
+	<string>
+
+1407225051 /home/redbeard/Desktop/FinalProject/myStruct.h
+	<iostream>
+	<string>
+
+1407272651 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/FinalProject/main.cpp
+	"Node.h"
+	"myStruct.h"
+	"functions.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1407186291 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/FinalProject/Node.h
+	<iostream>
+	<string>
+
+1407225051 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/FinalProject/myStruct.h
+	<iostream>
+	<string>
+
+1407277817 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/FinalProject/functions.h
+	"functions.cpp"
+	<iostream>
+	<string>
+
+1407273217 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/FinalProject/functions.cpp
+	"Node.h"
+	"myStruct.h"
+	"functions.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+
+1407272688 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/FinalProject/Node.cpp
+	"Node.h"
+	<iostream>
+	<string>
+

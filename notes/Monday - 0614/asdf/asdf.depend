@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1405350400 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/notes/Monday - 0614/asdf/LinkedListNotes.cpp
+	"LinkedListNotes.h"
+
+1405352478 /home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/notes/Monday - 0614/asdf/LinkedListNotes.h
+
+1405354396 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/notes/Monday - 0614/asdf/main.cpp
+	<iostream>
+	"LinkedListNotes.h"
+

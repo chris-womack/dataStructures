@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1406126112 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/notes/Wednesday-0623/Notes/TreeClass.cpp
+	<iostream>
+	"TreeClass.h"
+	<string>
+
+1406126111 /home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/notes/Wednesday-0623/Notes/TreeClass.h
+	<string>
+
+1406127187 source:/home/redbeard/Dropbox/coding_classes/2014_1_summer/data_structures/notes/Wednesday-0623/Notes/main.cpp
+	<iostream>
+	"TreeClass.h"
+	<string>
+

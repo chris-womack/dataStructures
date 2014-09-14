@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1407117697 source:/home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Assignment2.cpp
+	<iostream>
+	<string>
+	"Node.h"
+	"Linked_List.h"
+	"Stack.h"
+
+1405992850 /home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Node.h
+
+1405999584 /home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Linked_List.h
+	"Node.h"
+
+1405999806 /home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Double_Linked_List.h
+
+1406003386 /home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Stack.h
+	"Linked_List.h"
+	"Double_Linked_List.h"
+	"Node.h"
+
+1406004968 /home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Queue.h
+	"Linked_List.h"
+	"Double_Linked_List.h"
+	"Node.h"
+
+1406006160 source:/home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Double_Linked_List.cpp
+	"Node.h"
+	"Double_Linked_List.h"
+	<iostream>
+
+1407117456 source:/home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Linked_List.cpp
+	"Node.h"
+	"Linked_List.h"
+
+1406001774 source:/home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Node.cpp
+	"Node.h"
+
+1406005104 source:/home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Queue.cpp
+	<iostream>
+	"Linked_List.h"
+	"Double_Linked_List.h"
+	"Node.h"
+	"Queue.h"
+
+1407117230 source:/home/user/Dropbox/CSCI2270/ValgrindMemoryLeaksExercise/Stack.cpp
+	<iostream>
+	"Node.h"
+	"Linked_List.h"
+	"Double_Linked_List.h"
+	"Stack.h"
+
+1407117698 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Assignment2.cpp
+	<iostream>
+	<string>
+	"Node.h"
+	"Linked_List.h"
+	"Stack.h"
+
+1405992850 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Node.h
+
+1405999584 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Linked_List.h
+	"Node.h"
+
+1407165420 /home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Stack.h
+	"Linked_List.h"
+	"Node.h"
+
+1407117456 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Linked_List.cpp
+	"Node.h"
+	"Linked_List.h"
+
+1406001774 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Node.cpp
+	"Node.h"
+
+1407117230 source:/home/redbeard/Dropbox/CodingClasses/2014_1_summer/data_structures/ValgrindMemoryLeaksExercise/Stack.cpp
+	<iostream>
+	"Node.h"
+	"Linked_List.h"
+	"Double_Linked_List.h"
+	"Stack.h"
+
